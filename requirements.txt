@@ -1,0 +1,9 @@
+# Python 3.9 or later
+torch
+torchvision
+matplotlib
+pillow
+kagglehub    # only needed to download the dataset in train_colab.ipynb
+
+# Tkinter (for gui_app.py) is part of Python on Windows and macOS.
+# Linux: sudo apt install python3-tk
